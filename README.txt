@@ -6,8 +6,10 @@ PARKINSONS DISEASE DETECTION
 
 #Parkinons Disease_Detection.ipynb - code file made using google colab 
 
-SVC model gained an accuracy of 94.8% while XGBoost gained accuracy upto 92.3% with same training data
+#Parkinsons_Disease_Detection.pdf - a pdf report for the above project
+
+SVC model gained an accuracy of 66.1% while XGBoost gained accuracy upto89.8% with same training data
 
 #code contains classification report of both models 
 
-#A bar graph has been made to compare the results of both models prediction 
+ 
